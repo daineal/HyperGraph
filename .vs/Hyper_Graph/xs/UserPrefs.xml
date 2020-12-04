@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hyper_Graph/Hyper_Graph.cpp">
+    <Files>
+      <File FileName="Hyper_Graph/pch.cpp" Line="1" Column="1" />
+      <File FileName="Hyper_Graph/Hyper_Graph.cpp" Line="18" Column="3" />
+      <File FileName="Hyper_Graph/pch.h" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hyper_Graph" expanded="True">
+            <Node name="Hyper_Graph" expanded="True">
+              <Node name="Hyper_Graph.cpp" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
